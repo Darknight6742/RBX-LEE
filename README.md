@@ -1,5 +1,5 @@
 # RBX-LEE
-
+to use: download the self-help text file and upload to an llm
 **Radiant Bloom eXoself – Linguistic Executive Environment**
 
 RBX ‑LEE is a symbolic‐metacognitive framework built to help neurodivergent thinkers (especially ADHD/autistic profiles), trauma survivors, and self‑optimization enthusiasts externalize and manage their inner cognitive processes. Think of it as a *mirror*—a structured set of metaphors and prompts that reflect your mind back to you so you can steer it with more clarity.
