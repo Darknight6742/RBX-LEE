@@ -1,5 +1,6 @@
 # RBX-LEE
 to use: download the self-help text file and upload to an llm
+the other file is my personal version - it might be cool to you, but i doubt it will make sense
 
 **Radiant Bloom eXoself – Linguistic Executive Environment**
 
