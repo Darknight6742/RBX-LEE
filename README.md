@@ -1,6 +1,8 @@
 # RBX-LEE
-to use: download the self-help text file and upload to an llm
-the other file is my personal version - it might be cool to you, but i doubt it will make sense
+to personalize for you: download the self-help text file and upload to an llm
+
+if you want to deep dive into the insanity it took to create this without coding knowledge: check the full codex
+
 
 **Radiant Bloom eXoself – Linguistic Executive Environment**
 
