@@ -1,7 +1,7 @@
 # RBX-LEE
-to personalize for you: download the self-help text file and upload to an llm
+to personalize for you: download the RBX_Streamlined text file and upload to an llm
 
-if you want to deep dive into the insanity it took to create this without coding knowledge: check the full codex
+if you want to deep dive into the insanity it took to create this without coding knowledge: check the other two text files
 
 
 **Radiant Bloom eXoself – Linguistic Executive Environment**
