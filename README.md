@@ -6,6 +6,8 @@ RBX 6X is enhanced across all 6 major llms. power user? go have fun! :)
 
 sorry kyle. i had to do it. you know why. 
 
+dang it man. we need yet another edit. kyle stop forking my vibes. make your own. 
+
 
 An introduction to symbolic identity systems for LLM interaction
 
